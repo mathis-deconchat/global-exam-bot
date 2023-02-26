@@ -18,6 +18,9 @@ It will only execute the exercise you are on.
 ## How to stop
 Refresh the page 
 
+## Bugs
+Open an issue if you find one
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 - [ ]  Check why it sometimes crash in all-in mode
